@@ -73,6 +73,12 @@
             <version>4.3.12.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.13.6</version>
+        </dependency>
+
     </dependencies>
 
     <build>
